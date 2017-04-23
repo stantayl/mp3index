@@ -1,0 +1,3 @@
+# scalaplay01
+
+Baby steps...
